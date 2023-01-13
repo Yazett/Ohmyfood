@@ -657,6 +657,9 @@ h1 i{
     margin: auto;
 }
 
+/* Animation rotation checkmark */
+
+
 .menuitem:hover .menuitem__check{
     display: flex;
     opacity: 100%;
@@ -667,6 +670,7 @@ h1 i{
     color: #f3f3f3;
     scale: 1.6;
     animation: fa-circle-check 1s ease 0s 1 normal forwards;
+    
 }
 
 @keyframes fa-circle-check {
