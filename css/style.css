@@ -629,6 +629,7 @@ h1 i{
 }
 .menuitem__text{
     overflow: hidden;
+    padding: 8px;
 }
 
 .menuitem__text>p{
