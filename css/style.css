@@ -641,7 +641,8 @@ h1 i{
     margin-left: auto;
     align-items: flex-end;
     display: flex;
-    padding-bottom: 8px;
+    padding-bottom: 12px;
+    padding-right: 12px;
 }
 .menuitem__check{
     background-color: #99E2D0;
